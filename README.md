@@ -7,3 +7,9 @@ https://www.securityweek.com/french-ministry-justice-targeted-ransomware-attack 
 https://www.securityweek.com/ransomware-gang-threatens-leak-files-stolen-tire-giant-bridgestone
 
 https://therecord.media/rio-de-janeiro-finance-department-hit-with-lockbit-ransomware/
+
+https://www.securityweek.com/ransomware-gang-leaks-files-allegedly-stolen-accenture
+
+https://threatpost.com/lockbit-ransomware-proliferates-globally/168746/
+
+https://www.securityweek.com/ransomware-operators-leak-data-stolen-wind-turbine-giant-vestas
