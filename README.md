@@ -15,3 +15,5 @@ https://threatpost.com/lockbit-ransomware-proliferates-globally/168746/
 https://www.securityweek.com/ransomware-operators-leak-data-stolen-wind-turbine-giant-vestas
 
 https://www.sentinelone.com/labs/lockbit-ransomware-side-loads-cobalt-strike-beacon-with-legitimate-vmware-utility/
+
+https://www.cyberscoop.com/lockbit-ransomware-attack-bulgarian-refugee-agency/
