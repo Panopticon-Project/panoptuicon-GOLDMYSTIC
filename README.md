@@ -17,3 +17,5 @@ https://www.securityweek.com/ransomware-operators-leak-data-stolen-wind-turbine-
 https://www.sentinelone.com/labs/lockbit-ransomware-side-loads-cobalt-strike-beacon-with-legitimate-vmware-utility/
 
 https://www.cyberscoop.com/lockbit-ransomware-attack-bulgarian-refugee-agency/
+
+https://www.securityweek.com/ransomware-group-claims-have-breached-foxconn-factory
