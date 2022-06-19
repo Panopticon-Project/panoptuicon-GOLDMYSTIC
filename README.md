@@ -19,3 +19,5 @@ https://www.sentinelone.com/labs/lockbit-ransomware-side-loads-cobalt-strike-bea
 https://www.cyberscoop.com/lockbit-ransomware-attack-bulgarian-refugee-agency/
 
 https://www.securityweek.com/ransomware-group-claims-have-breached-foxconn-factory
+
+https://unit42.paloaltonetworks.com/lockbit-2-ransomware/
