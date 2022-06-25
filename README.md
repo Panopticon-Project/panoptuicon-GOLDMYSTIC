@@ -21,3 +21,5 @@ https://www.cyberscoop.com/lockbit-ransomware-attack-bulgarian-refugee-agency/
 https://www.securityweek.com/ransomware-group-claims-have-breached-foxconn-factory
 
 https://unit42.paloaltonetworks.com/lockbit-2-ransomware/
+
+https://www.cyberscoop.com/lockbit-2-0-claims-mandiant-ransomware-victim/
