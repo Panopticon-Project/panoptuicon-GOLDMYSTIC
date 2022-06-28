@@ -23,3 +23,5 @@ https://www.securityweek.com/ransomware-group-claims-have-breached-foxconn-facto
 https://unit42.paloaltonetworks.com/lockbit-2-ransomware/
 
 https://www.cyberscoop.com/lockbit-2-0-claims-mandiant-ransomware-victim/
+
+https://www.securityweek.com/lockbit-30-ransomware-emerges-bug-bounty-program
