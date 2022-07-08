@@ -29,3 +29,5 @@ https://www.securityweek.com/lockbit-30-ransomware-emerges-bug-bounty-program
 https://therecord.media/lockbit-adds-a-bug-bounty-program-in-its-revamped-ransomware-as-a-service-operation
 
 https://twitter.com/fwosar/status/1543700719181746182?utm_source=substack&utm_medium=email
+
+https://twitter.com/fwosar/status/1543705282194411527?utm_source=substack&utm_medium=email
