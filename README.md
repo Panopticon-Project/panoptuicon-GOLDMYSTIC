@@ -31,3 +31,6 @@ https://therecord.media/lockbit-adds-a-bug-bounty-program-in-its-revamped-ransom
 https://twitter.com/fwosar/status/1543700719181746182?utm_source=substack&utm_medium=email
 
 https://twitter.com/fwosar/status/1543705282194411527?utm_source=substack&utm_medium=email
+
+https://cluster25.io/2022/07/06/lockbit-3-0-making-the-ransomware-great-again/
+
