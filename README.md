@@ -39,3 +39,5 @@ https://therecord.media/french-telecom-company-la-poste-mobile-struggling-to-rec
 https://therecord.media/german-library-service-struggling-to-recover-from-ransomware-attack/
 
 https://therecord.media/top-aces-ransomware-attack-lockbit/
+
+https://www.bleepingcomputer.com/news/security/automotive-fabric-supplier-tb-kawashima-announces-cyberattack/
