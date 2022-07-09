@@ -34,3 +34,8 @@ https://twitter.com/fwosar/status/1543705282194411527?utm_source=substack&utm_me
 
 https://cluster25.io/2022/07/06/lockbit-3-0-making-the-ransomware-great-again/
 
+https://therecord.media/french-telecom-company-la-poste-mobile-struggling-to-recover-from-ransomware-attack
+
+https://therecord.media/german-library-service-struggling-to-recover-from-ransomware-attack/
+
+https://therecord.media/top-aces-ransomware-attack-lockbit/
