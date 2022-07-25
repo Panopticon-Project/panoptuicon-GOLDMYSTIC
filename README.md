@@ -43,3 +43,5 @@ https://therecord.media/top-aces-ransomware-attack-lockbit/
 https://www.bleepingcomputer.com/news/security/automotive-fabric-supplier-tb-kawashima-announces-cyberattack/
 
 https://therecord.media/experts-concerned-about-ransomware-groups-creating-searchable-databases-of-victim-data/
+
+https://www.sentinelone.com/labs/lockbit-3-0-update-unpicking-the-ransomwares-latest-anti-analysis-and-evasion-techniques/
