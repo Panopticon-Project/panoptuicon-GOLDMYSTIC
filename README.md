@@ -45,3 +45,5 @@ https://www.bleepingcomputer.com/news/security/automotive-fabric-supplier-tb-kaw
 https://therecord.media/experts-concerned-about-ransomware-groups-creating-searchable-databases-of-victim-data/
 
 https://www.sentinelone.com/labs/lockbit-3-0-update-unpicking-the-ransomwares-latest-anti-analysis-and-evasion-techniques/
+
+https://therecord.media/italy-investigating-ransomware-attack-on-tax-agency/
