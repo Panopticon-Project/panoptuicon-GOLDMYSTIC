@@ -49,3 +49,7 @@ https://www.sentinelone.com/labs/lockbit-3-0-update-unpicking-the-ransomwares-la
 https://therecord.media/italy-investigating-ransomware-attack-on-tax-agency/
 
 https://www.sentinelone.com/blog/living-off-windows-defender-lockbit-ransomware-sideloads-cobalt-strike-through-microsoft-security-tool/
+
+https://blog.sekoia.io/sekoia-io-mid-2022-ransomware-threat-landscape/
+
+https://angle.ankura.com/post/102htog/lockbit-implements-new-technique-by-leaking-victim-negotiations
