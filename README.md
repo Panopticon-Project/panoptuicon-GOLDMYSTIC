@@ -47,3 +47,5 @@ https://therecord.media/experts-concerned-about-ransomware-groups-creating-searc
 https://www.sentinelone.com/labs/lockbit-3-0-update-unpicking-the-ransomwares-latest-anti-analysis-and-evasion-techniques/
 
 https://therecord.media/italy-investigating-ransomware-attack-on-tax-agency/
+
+https://www.sentinelone.com/blog/living-off-windows-defender-lockbit-ransomware-sideloads-cobalt-strike-through-microsoft-security-tool/
