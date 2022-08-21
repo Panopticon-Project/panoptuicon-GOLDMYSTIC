@@ -53,3 +53,5 @@ https://www.sentinelone.com/blog/living-off-windows-defender-lockbit-ransomware-
 https://blog.sekoia.io/sekoia-io-mid-2022-ransomware-threat-landscape/
 
 https://angle.ankura.com/post/102htog/lockbit-implements-new-technique-by-leaking-victim-negotiations
+
+https://www.securityweek.com/ransomware-group-threatens-leak-data-stolen-security-firm-entrust
