@@ -57,3 +57,5 @@ https://angle.ankura.com/post/102htog/lockbit-implements-new-technique-by-leakin
 https://www.securityweek.com/ransomware-group-threatens-leak-data-stolen-security-firm-entrust
 
 https://twitter.com/vxunderground/status/1561262483448512513 - lol
+
+https://www.bleepingcomputer.com/news/security/lockbit-ransomware-blames-entrust-for-ddos-attacks-on-leak-sites/
