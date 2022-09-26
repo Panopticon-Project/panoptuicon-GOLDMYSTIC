@@ -61,3 +61,5 @@ https://twitter.com/vxunderground/status/1561262483448512513 - lol
 https://www.bleepingcomputer.com/news/security/lockbit-ransomware-blames-entrust-for-ddos-attacks-on-leak-sites/
 
 https://therecord.media/experts-fear-lockbit-spread-after-ransomware-builder-leaked/
+
+https://github.com/3xp0rt/LockBit-Black-Builder
