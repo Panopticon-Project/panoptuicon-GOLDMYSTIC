@@ -63,3 +63,7 @@ https://www.bleepingcomputer.com/news/security/lockbit-ransomware-blames-entrust
 https://therecord.media/experts-fear-lockbit-spread-after-ransomware-builder-leaked/
 
 https://github.com/3xp0rt/LockBit-Black-Builder
+
+https://cybergeeks.tech/a-technical-analysis-of-the-leaked-lockbit-3-0-builder/
+
+https://medium.com/s2wblog/quick-overview-of-leaked-lockbit-3-0-black-builder-program-880ae511d085
