@@ -67,3 +67,5 @@ https://github.com/3xp0rt/LockBit-Black-Builder
 https://cybergeeks.tech/a-technical-analysis-of-the-leaked-lockbit-3-0-builder/
 
 https://medium.com/s2wblog/quick-overview-of-leaked-lockbit-3-0-black-builder-program-880ae511d085
+
+https://www.theregister.com/2022/10/14/nhs_software_hosting_provider_advanced_ransomware_lockbit/
