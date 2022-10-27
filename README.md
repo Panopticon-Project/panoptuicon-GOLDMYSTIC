@@ -71,3 +71,5 @@ https://medium.com/s2wblog/quick-overview-of-leaked-lockbit-3-0-black-builder-pr
 https://www.theregister.com/2022/10/14/nhs_software_hosting_provider_advanced_ransomware_lockbit/
 
 https://cardealermagazine.co.uk/publish/pendragon-being-held-to-60m-ransom-by-dark-web-hackers/273432?utm_source=substack&utm_medium=email
+
+https://insight-jp.nttsecurity.com/post/102hz18/lockbit3-0-builderencryptor
