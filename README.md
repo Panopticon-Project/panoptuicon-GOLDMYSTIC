@@ -73,3 +73,5 @@ https://www.theregister.com/2022/10/14/nhs_software_hosting_provider_advanced_ra
 https://cardealermagazine.co.uk/publish/pendragon-being-held-to-60m-ransom-by-dark-web-hackers/273432?utm_source=substack&utm_medium=email
 
 https://insight-jp.nttsecurity.com/post/102hz18/lockbit3-0-builderencryptor
+
+https://therecord.media/french-defense-firm-denies-ransomware-attack-after-leak-site-posting
