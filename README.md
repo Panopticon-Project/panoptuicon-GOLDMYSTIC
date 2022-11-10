@@ -77,3 +77,5 @@ https://insight-jp.nttsecurity.com/post/102hz18/lockbit3-0-builderencryptor
 https://therecord.media/french-defense-firm-denies-ransomware-attack-after-leak-site-posting
 
 https://www.securityweek.com/ransomware-group-threatens-leak-data-stolen-car-parts-giant-continental
+
+https://www.securityweek.com/russian-national-arrested-canada-over-lockbit-ransomware-attacks
