@@ -79,3 +79,5 @@ https://therecord.media/french-defense-firm-denies-ransomware-attack-after-leak-
 https://www.securityweek.com/ransomware-group-threatens-leak-data-stolen-car-parts-giant-continental
 
 https://www.securityweek.com/russian-national-arrested-canada-over-lockbit-ransomware-attacks
+
+https://www.securityweek.com/ransomware-gang-offers-sell-files-stolen-continental-50-million
