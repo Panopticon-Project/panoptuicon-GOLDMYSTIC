@@ -28,9 +28,9 @@ https://www.securityweek.com/lockbit-30-ransomware-emerges-bug-bounty-program
 
 https://therecord.media/lockbit-adds-a-bug-bounty-program-in-its-revamped-ransomware-as-a-service-operation
 
-https://twitter.com/fwosar/status/1543700719181746182?utm_source=substack&utm_medium=email
+https://twitter.com/fwosar/status/1543700719181746182
 
-https://twitter.com/fwosar/status/1543705282194411527?utm_source=substack&utm_medium=email
+https://twitter.com/fwosar/status/1543705282194411527
 
 https://cluster25.io/2022/07/06/lockbit-3-0-making-the-ransomware-great-again/
 
@@ -81,3 +81,5 @@ https://www.securityweek.com/ransomware-group-threatens-leak-data-stolen-car-par
 https://www.securityweek.com/russian-national-arrested-canada-over-lockbit-ransomware-attacks
 
 https://www.securityweek.com/ransomware-gang-offers-sell-files-stolen-continental-50-million
+
+https://therecord.media/alleged-lockbit-operator-to-be-extradited-from-canada-to-u-s/
