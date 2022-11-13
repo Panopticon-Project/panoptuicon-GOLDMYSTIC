@@ -83,3 +83,7 @@ https://www.securityweek.com/russian-national-arrested-canada-over-lockbit-ranso
 https://www.securityweek.com/ransomware-gang-offers-sell-files-stolen-continental-50-million
 
 https://therecord.media/alleged-lockbit-operator-to-be-extradited-from-canada-to-u-s/
+
+https://storage.courtlistener.com/recap/gov.uscourts.njd.504081/gov.uscourts.njd.504081.1.0.pdf
+
+https://www.justice.gov/opa/pr/man-charged-participation-lockbit-global-ransomware-campaign
