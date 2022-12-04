@@ -89,3 +89,7 @@ https://storage.courtlistener.com/recap/gov.uscourts.njd.504081/gov.uscourts.njd
 https://www.justice.gov/opa/pr/man-charged-participation-lockbit-global-ransomware-campaign
 
 https://www.thalesgroup.com/en/worldwide/group/press_release/thales-position-lockbit-30
+
+https://news.sophos.com/en-us/2022/11/30/lockbit-3-0-black-attacks-and-leaks-reveal-wormable-capabilities-and-tooling/
+
+https://blog.cluster25.duskrise.com/2022/07/06/lockbit-3-0-making-the-ransomware-great-again
