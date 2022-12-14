@@ -95,3 +95,5 @@ https://news.sophos.com/en-us/2022/11/30/lockbit-3-0-black-attacks-and-leaks-rev
 https://blog.cluster25.duskrise.com/2022/07/06/lockbit-3-0-making-the-ransomware-great-again
 
 https://www.securityweek.com/ransomware-group-threatens-publish-data-stolen-california-department-finance
+
+https://news.caloes.ca.gov/statement-on-cybersecurity-incident/
