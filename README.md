@@ -93,3 +93,5 @@ https://www.thalesgroup.com/en/worldwide/group/press_release/thales-position-loc
 https://news.sophos.com/en-us/2022/11/30/lockbit-3-0-black-attacks-and-leaks-reveal-wormable-capabilities-and-tooling/
 
 https://blog.cluster25.duskrise.com/2022/07/06/lockbit-3-0-making-the-ransomware-great-again
+
+https://www.securityweek.com/ransomware-group-threatens-publish-data-stolen-california-department-finance
