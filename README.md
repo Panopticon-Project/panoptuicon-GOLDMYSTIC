@@ -99,3 +99,5 @@ https://www.securityweek.com/ransomware-group-threatens-publish-data-stolen-cali
 https://news.caloes.ca.gov/statement-on-cybersecurity-incident/
 
 https://therecord.media/port-of-lisbon-website-still-down-as-lockbit-gang-claims-cyberattack/
+
+https://therecord.media/lockbit-ransomware-group-attacks-ohio-towns-court-police-department-and-more/
