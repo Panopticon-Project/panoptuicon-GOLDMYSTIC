@@ -101,3 +101,7 @@ https://news.caloes.ca.gov/statement-on-cybersecurity-incident/
 https://therecord.media/port-of-lisbon-website-still-down-as-lockbit-gang-claims-cyberattack/
 
 https://therecord.media/lockbit-ransomware-group-attacks-ohio-towns-court-police-department-and-more/
+
+https://www.yomiuri.co.jp/national/20221228-OYT1T50190/
+
+https://www.sankei.com/article/20221228-RLMXVY5SPBNPZP3K4T4M4SOQYE/
