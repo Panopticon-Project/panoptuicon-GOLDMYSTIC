@@ -97,3 +97,5 @@ https://blog.cluster25.duskrise.com/2022/07/06/lockbit-3-0-making-the-ransomware
 https://www.securityweek.com/ransomware-group-threatens-publish-data-stolen-california-department-finance
 
 https://news.caloes.ca.gov/statement-on-cybersecurity-incident/
+
+https://therecord.media/port-of-lisbon-website-still-down-as-lockbit-gang-claims-cyberattack/
