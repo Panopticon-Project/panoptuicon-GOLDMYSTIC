@@ -105,3 +105,5 @@ https://therecord.media/lockbit-ransomware-group-attacks-ohio-towns-court-police
 https://www.yomiuri.co.jp/national/20221228-OYT1T50190/
 
 https://www.sankei.com/article/20221228-RLMXVY5SPBNPZP3K4T4M4SOQYE/
+
+https://www.securityweek.com/virginia-county-confirms-personal-information-stolen-ransomware-attack
