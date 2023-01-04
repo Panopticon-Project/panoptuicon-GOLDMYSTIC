@@ -107,3 +107,9 @@ https://www.yomiuri.co.jp/national/20221228-OYT1T50190/
 https://www.sankei.com/article/20221228-RLMXVY5SPBNPZP3K4T4M4SOQYE/
 
 https://www.securityweek.com/virginia-county-confirms-personal-information-stolen-ransomware-attack
+
+https://www.reuters.com/technology/us-fbi-joins-continental-cyberattack-investigation-handelsblatt-2022-11-23/
+
+https://www.golem.de/sonstiges/zustimmung/auswahl.html
+
+https://www.continental.com/en/press/continental-informs/
