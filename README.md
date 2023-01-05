@@ -113,3 +113,5 @@ https://www.reuters.com/technology/us-fbi-joins-continental-cyberattack-investig
 https://www.golem.de/sonstiges/zustimmung/auswahl.html
 
 https://www.continental.com/en/press/continental-informs/
+
+https://www.securityweek.com/wabtec-says-personal-information-compromised-ransomware-attack
