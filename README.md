@@ -119,3 +119,7 @@ https://www.securityweek.com/wabtec-says-personal-information-compromised-ransom
 https://therecord.media/los-angeles-housing-authority-says-cyberattack-disrupting-systems/
 
 https://www.thalesgroup.com/en/worldwide/group/press_release/thales-position-lockbit-30
+
+https://www.bleepingcomputer.com/news/security/bitdefender-releases-free-megacortex-ransomware-decryptor/
+
+https://www.nomoreransom.org/uploads/UserManualMegaCortexDecryptor.pdf
