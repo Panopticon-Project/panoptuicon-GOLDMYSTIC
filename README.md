@@ -125,3 +125,9 @@ https://www.bleepingcomputer.com/news/security/bitdefender-releases-free-megacor
 https://www.nomoreransom.org/uploads/UserManualMegaCortexDecryptor.pdf
 
 https://therecord.media/ransomware-diaries-undercover-with-the-leader-of-lockbit/
+
+https://twitter.com/AShukuhi/status/1614253409447645187
+
+https://archive.md/vzJyA
+
+https://personal.help.royalmail.com/app/answers/detail/a_id/12556
