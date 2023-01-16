@@ -123,3 +123,5 @@ https://www.thalesgroup.com/en/worldwide/group/press_release/thales-position-loc
 https://www.bleepingcomputer.com/news/security/bitdefender-releases-free-megacortex-ransomware-decryptor/
 
 https://www.nomoreransom.org/uploads/UserManualMegaCortexDecryptor.pdf
+
+https://therecord.media/ransomware-diaries-undercover-with-the-leader-of-lockbit/
