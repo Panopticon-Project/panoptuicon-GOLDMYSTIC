@@ -133,3 +133,5 @@ https://archive.md/vzJyA
 https://personal.help.royalmail.com/app/answers/detail/a_id/12556
 
 https://www.theguardian.com/business/2023/jan/12/royal-mail-ransomware-attackers-threaten-to-publish-stolen-data
+
+https://analyst1.com/ransomware-diaries-volume-1/
